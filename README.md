@@ -21,3 +21,11 @@ Imagens do projeto:
 Tela Home:
 ![image](https://user-images.githubusercontent.com/92445126/160137369-c9098a2b-ff22-46ea-a664-9a8050b26e36.png)
 
+Tela da lista de Pokemons:
+![image](https://user-images.githubusercontent.com/92445126/160142175-66d177c0-871e-4376-bace-30e78b09d138.png)
+
+Tela Detalhes do Pokemon:
+![image](https://user-images.githubusercontent.com/92445126/160142355-b9c16c99-6d2b-4515-af11-170c8643be41.png)
+
+
+
