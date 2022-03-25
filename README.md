@@ -5,6 +5,8 @@ Nome dos integrantes: Carlise, Nina, Eliel e Atauan
 
 Link do Surge: https://special-rake.surge.sh/
 
+Link do Figma para proposta do projeto: https://www.figma.com/file/Wf83RNSp78Qv43MxohAbbr/trip-%26-travelling-website-(Community)?node-id=120%3A36
+
 O que funciona:
 
 Renderização dos 20 primeiros pokemons na tela Home; 
