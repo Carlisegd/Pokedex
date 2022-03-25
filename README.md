@@ -1,18 +1,14 @@
 # Pokedex
 Projeto realizado em React no Curso de Full Stack da Labenu.
 
-Nome dos integrantes:
+Nome dos integrantes: Carlise, Nina, Eliel e Atauan
 
-Carlise
-Nina
-Eliel
-Atauan
 Link do Surge: https://special-rake.surge.sh/
 
 O que funciona:
 
 Renderização dos 20 primeiros pokemons na tela Home; 
-Botão de adicionar a uma lista; 
+Botão de adicionar a uma lista e ver detalhes; 
 Botão de detalhes Troca de páginas que troca para a página de detalhes; 
 Renderização na tela de detalhes da imagem, moves e type do pokemon;
 
